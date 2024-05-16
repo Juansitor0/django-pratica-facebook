@@ -1,0 +1,201 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f0f2f5;
+  display: flex;
+  flex-direction: column; /* Alterado para column */
+  gap: 20px; /* Adicionado para criar espaço entre o conteúdo e o footer */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+._4-u5._30ny {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 10px 2px 50px rgba(0, 0, 0, 0.1);
+  width: 365px;
+  margin-bottom: 30%;
+}
+
+._97vy img {
+  width: 240px;
+  margin: 10% auto 0px;
+  display: block;
+}
+
+._9axz {
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 32px;
+  margin-bottom: 8px;
+  color: #1c1e21;
+  text-align: center;
+}
+
+.login_form_container {
+  margin-top: 20px;
+}
+
+#loginform {
+  width: 100%;
+}
+
+.clearfix._5466._44mg {
+  margin-bottom: 10px;
+}
+
+.inputtext._55r1 {
+  width: 100%;
+  padding: 14px 16px;
+  border: 1px solid #dddfe2;
+  border-radius: 6px;
+  font-size: 17px;
+  color: #1c1e21;
+  box-sizing: border-box;
+}
+
+.inputtext._55r1:focus {
+  outline: none;
+  border-color: #1877f2;
+  box-shadow: 0 0 0 2px #e7f3ff;
+}
+
+._xkt button {
+  background-color: #1877f2;
+  color: #fff;
+  padding: 14px 18px;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+}
+
+._xkt button:hover {
+  background-color: #166fe5;
+}
+
+._xkt button:focus {
+  outline: none;
+}
+
+._97w3 {
+  text-align: center; /* Center the 'Esqueceu a conta?' link */
+}
+
+._97w3 a {
+  color: #1877f2;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+._97w3 a:hover {
+  text-decoration: underline;
+}
+
+._1rf5 {
+  text-align: center;
+  margin: 10px 0;
+}
+
+._1rf8 {
+  font-size: 14px;
+  color: #90949c;
+}
+
+._xkt a {
+  background-color: #42b72a; /* Green background color */
+  color: #fff;
+  padding: 14px 16px;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  width: 38%;
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove underline */
+}
+
+._xkt { /* Adicione estilos à div */
+  display: flex; /* Define a div como um flex container */
+  justify-content: center; /* Centraliza os itens dentro da div */
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Language Links */
+.languages {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.languages a {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.languages a:hover {
+  text-decoration: underline;
+}
+
+.more-languages {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Links */
+.links {
+  display: flex;
+  gap: 40px;
+}
+
+.links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin-bottom: 5px;
+}
+
+.links a {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+/* Copyright */
+.copyright {
+  text-align: center;
+}
+
+.copyright p {
+  color: #666;
+  font-size: 12px;
+}
