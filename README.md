@@ -43,8 +43,4 @@
         <li><strong>Estrutura Django:</strong> utiliza a poderosa estrutura Django para criar o aplicativo da web.</li>
         <li><strong>Finalidade Educacional:</strong> Visa aumentar a conscientização sobre ataques de phishing e aprimorar o conhecimento sobre segurança cibernética.</li>
       </ul>
-    </div>
-    <p>Para mais informações, visite o <a href="https://github.com/seuusuario/seuprojeto">repositório no GitHub</a>.</p>
-  </div>
-</body>
-</html>
+   
