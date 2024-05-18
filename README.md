@@ -4,34 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Simulação de ataque de phishing com Django</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f8f8f8;
-    color: #333;
-    padding: 20px;
-  }
-  .container {
-    max-width: 800px;
-    margin: auto;
-  }
-  h1 {
-    color: #333;
-    text-align: center;
-  }
-  p {
-    margin-bottom: 15px;
-  }
-  .highlight {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-left: 3px solid #007bff;
-    margin-bottom: 20px;
-  }
-</style>
-</head>
-<body>
+
   <div class="container">
     <h1>Simulação de ataque de phishing com Django</h1>
     <p>Este projeto é uma demonstração de uma simulação de ataque de phishing usando Django. Ele imita a página de login do Facebook para capturar as credenciais do usuário, que são armazenadas em um arquivo chamado log.txt. O objetivo deste projeto é destacar a importância da conscientização sobre segurança cibernética e educar os usuários sobre como funcionam os ataques de phishing.</p>
