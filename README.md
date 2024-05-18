@@ -1,4 +1,4 @@
-h1>Simulação de ataque em phinshing em Django</h1>
+<h1>Simulação de ataque em phinshing em Django</h1>
 
 <h2>No repositório há os arquivos do site e você deverá seguir as instruções abaixo:</h2>
 
